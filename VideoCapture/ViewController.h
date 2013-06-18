@@ -9,10 +9,6 @@
 #import <UIKit/UIKit.h>
 #import "VideoSession.h"
 
-@interface ViewController : UIViewController {
-	
-}
-
-@property (retain) VideoSession *videoSession;
+@interface ViewController : UIViewController
 
 @end
